@@ -1,0 +1,6 @@
+# -*- ispell-local-dictionary: "en" -*-
+#+AUTHOR: Martin Buchmann
+#+TITLE: cl-othello
+
+This is the readme file for my "cl-othello" project.  Inspired by Peter Norvig's
+[[http://norvig.com/paip.html][example]] I want to implement my own version.
