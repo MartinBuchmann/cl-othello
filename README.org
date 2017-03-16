@@ -6,3 +6,15 @@ This is the readme file for my "cl-othello" project.  Inspired by Peter Norvig's
 [[http://norvig.com/paip.html][example]] I wanted to implement my own version.  At the moment I have just
 implemented a simple random move engine.  See [[http://www.cliki.net/cl-reversi][cl-reversi]] for a more
 sophisticated example.
+
+Simply type:
+
+```
+> (asdf:load-system :cl-othello)
+
+> (in-package :cl-othello)
+
+> (othello #'zufalls-zug #'mensch)
+```
+
+after downloading it to a place known by asdf and enjoy a simple game.
