@@ -3,4 +3,6 @@
 #+TITLE: cl-othello
 
 This is the readme file for my "cl-othello" project.  Inspired by Peter Norvig's
-[[http://norvig.com/paip.html][example]] I want to implement my own version.
+[[http://norvig.com/paip.html][example]] I wanted to implement my own version.  At the moment I have just
+implemented a simple random move engine.  See [[http://www.cliki.net/cl-reversi][cl-reversi]] for a more
+sophisticated example.
