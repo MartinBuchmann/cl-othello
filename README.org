@@ -9,12 +9,12 @@ sophisticated example.
 
 Simply type:
 
-```
+#+BEGIN_SRC lisp
 > (asdf:load-system :cl-othello)
 
 > (in-package :cl-othello)
 
 > (othello #'zufalls-zug #'mensch)
-```
+#+END_SRC
 
 after downloading it to a place known by asdf and enjoy a simple game.
